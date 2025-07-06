@@ -103,19 +103,19 @@ const Home = () => {
   const englishContent = {
     sliderImages: [
       {
-        src: "/images/slider1.jpg",
+        src: "img1.jpg",
         alt: "Community work",
         title: "Positive Change in Community",
         description: "We strive to bring positive changes in the community",
       },
       {
-        src: "/images/slider2.jpg",
+        src: "img2.jpg",
         alt: "Education program",
         title: "Education Program",
         description: "Providing education to children in rural areas",
       },
       {
-        src: "/images/slider3.jpg",
+        src: "img4.jpg",
         alt: "Health camp",
         title: "Health Camp",
         description: "Free health checkup and treatment services",
